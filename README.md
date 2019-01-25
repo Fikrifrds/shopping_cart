@@ -1,4 +1,4 @@
 # shopping_cart
 
-Usage
+Usage : 
 npm install then npm test to run unit test
