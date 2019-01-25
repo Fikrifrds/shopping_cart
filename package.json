@@ -1,0 +1,14 @@
+{
+  "name": "scart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fikri Firdaus",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
